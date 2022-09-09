@@ -1,0 +1,11 @@
+{
+  "name": "Pixiv Func I18n Generator",
+  "short_name": "Pixiv Func I18n Generator",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "Pixiv Func I18n Generator",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
